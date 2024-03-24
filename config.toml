@@ -1,0 +1,3 @@
+# Rust config.toml file
+[build]
+rustflags = ["-Z", "threads=8", "-Z", "polonius"]
