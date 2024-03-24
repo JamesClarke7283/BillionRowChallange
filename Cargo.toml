@@ -4,6 +4,7 @@ cargo-features = ["edition2024"]
 name = "billionrowchallange"
 version = "0.1.0"
 edition = "2024"
+license = "CC0-1.0"
 
 [dependencies]
 
